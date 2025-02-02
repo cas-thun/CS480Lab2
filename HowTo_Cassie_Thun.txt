@@ -1,0 +1,10 @@
+How to execute file
+
+Windows:
+Python 3.13.1 must be installed.
+Typing python into the command line will redirect you to the Microsoft Store where it can be installed.
+
+Once Python 3.13.1 is successfully installed, you can run the program through the command line
+enter the directory Calculator.py is located and type:
+python Calculator.py
+
